@@ -7,6 +7,7 @@ This directory showcases research works, experiments, and applied studies in ima
 
 ## Publications
 
+- [The Impact of Segmentation on Image Quality Metrics \(zenodo)](https://zenodo.org/records/17948416)
 - [From Veins to Bones: SE-REGUNet’s New Frontier in Medical Imaging](https://setronica.com/media/blog/from-veins-to-bones-se-regunets-new-frontier-in-medical-imaging/)
 - [Enhancing Medical Image Segmentation with CIDN: A New Approach to Detecting Vessels and Bone Fractures](https://setronica.com/media/blog/enhancing-medical-image-segmentation-with-cidn-a-new-approach-to-detecting-vessels-and-bone-fractures/)
 - [SegGPT: Advanced Transformers for Superior Image Segmentation](https://setronica.com/media/blog/seggpt-advanced-transformers-for-superior-image-segmentation/)
